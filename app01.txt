@@ -1,0 +1,2 @@
+Name = "Rajesh"
+Print = "Name:"+Name
