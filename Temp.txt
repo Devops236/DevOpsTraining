@@ -1,1 +1,2 @@
 Temp = "Creating a temporary file"
+Temp02 = "Created from my local pc"
